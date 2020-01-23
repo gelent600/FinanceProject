@@ -1,0 +1,3 @@
+Consumption  other  65 CREDIT
+Consumption  eda 200 FOOD
+Income MySalary 500 SALARY
